@@ -27,7 +27,7 @@
  3. Após clonar o projeto, basta apenas abrir o html principal do site e utilizar as suas funcionalidades
 
 ### Screenshot
-![](./imagens/Screenshot.PNG)
+![](./images/Screenshot.PNG)
 ### Links
 - Site hospedado: [Site](https://glsvitoria.github.io/Projeto_Cordel_Mae/)
 
