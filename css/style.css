@@ -80,12 +80,13 @@ section.imagem {
 }
 
 section.imagem#img01 {
-    background-image: url('../images/background001.jpg');
-    background-position: right center;
+    background-image: url('../images/background01.jpg');
+    background-position: 25% top;
 }
 
 section.imagem#img02 {
-    background-image: url('../images/background002.jpg');
+    background-image: url('../images/background02.jpg');
+    background-position: left top;
 }
 
 section.imagem > p {
