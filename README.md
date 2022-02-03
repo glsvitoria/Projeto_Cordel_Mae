@@ -5,7 +5,7 @@
 
 ## Um pouco do Projeto:
 
-➡ Uma página declarando o cordel "Mãe" de Braulio Bessa utilizando a técnica paralaxe nas imagens referentes ao poema que vão passando ao rolar a página
+➡ Uma página declarando o cordel "Mãe" de Braulio Bessa utilizando a técnica Parallax nas imagens referentes ao poema que vão passando ao rolar a página
 
 ## Conteúdos
 
@@ -39,7 +39,7 @@
 [<img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=CSS3&logoColor=white" />](https://github.com/glsvitoria)
 
 ### O que eu aprendi
- - Técnica paralaxe para imagens de plano de fundo fixas ao fundo da tela com o background-attachment e background-size
+ - Técnica Parallax para imagens de plano de fundo fixas ao fundo da tela com o background-attachment e background-size
 
 ## Autor
 - Linkedin - [Guilherme Vitória](https://www.linkedin.com/in/glsvitoria/)
